@@ -6,11 +6,11 @@ const About = () => {
     <center><h1>About Us</h1></center>
     <img 
       className='Aboutimg' 
-      src="../public/Innomatics-Home-page-baner-1.webp" 
+      src="https://www.innomatics.in/wp-content/uploads/2022/06/Home-Page-Banner.jpg" 
       alt='img' 
       srcSet="
         http://innomatics.in/wp-content/uploads/2023/01/AWARD-PAGE.jpg 780w,
-        ../public/Innomatics-Home-page-baner-1.webp" 
+        https://www.innomatics.in/wp-content/uploads/2022/06/Home-Page-Banner.jpg" 
       sizes="(max-width: 1024px) 100vw, 1024px"
     />
     <p className='Para'>Innomatics Research Labs is a pioneer in “Transforming Career and Lives” of individuals in the Digital Space by catering advanced training on NASSCOM FutureSkills Prime Certified Data Science, Machine Learning, Artificial Intelligence (AI), Full Stack Development, Amazon Web Services (AWS), DevOps, Microsoft Azure, Big data Analytics, and Digital Marketing. We are passionate about bridging the gap between learning and real-time implementation, so empowering individuals to be industry-ready and help firms in reaping huge benefits is our primary goal.</p>
