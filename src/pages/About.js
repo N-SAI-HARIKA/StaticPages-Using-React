@@ -32,7 +32,7 @@ const About = () => {
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube.com/embed/OKUFrW40xyI" // Use the embed URL
+        src="https://www.youtube.com/embed/OKUFrW40xyI"
         title="YouTube Video"
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
